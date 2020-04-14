@@ -1,7 +1,7 @@
 # STOTask
 Задание для школы будущих СТО
 Умный сервис прогноза погоды задача со звездочкой
-Данная программа является чат-ботом для Телеграмма написаным на питоне с использованием библиотек [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) и [requests](https://github.com/psf/requests).
+Данная программа является чат-ботом для Телеграмма написаным на Python3 с использованием библиотек [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) и [requests](https://github.com/psf/requests).
 Данные о температуре полученные с API ппредставляются пользователю в виде:<br>
 В городе <Название города> на улице <тип погоды>.<br>
 Температура: <Температура> градусов цельсия.<br>
